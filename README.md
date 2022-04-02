@@ -13,10 +13,10 @@
 ##Example on if condition
 
       int Nani = 20;
-      int Kannamma = 18;
-      if (Nani > kannamma) 
+      int Sassy = 18;
+      if (Nani > Sassy) 
      {
-        Console.WriteLine("Nani Loves Mummy");                      //output: Nani Loves Mummy
+        Console.WriteLine("Nani is greater");                      //output: Nani is greater
      }
      
  # THE ELSE STATEMENT
@@ -86,7 +86,7 @@ variable = (condition) ? expressionTrue :  expressionFalse;
  ##Example on If else ternary operator
  
  int MoodSwing = 20;
- string result = (MoodSwing < 30) ? "Bongaina" : "Kannamma";          //output: Kannamma
+ string result = (MoodSwing < 30) ? "Sajeev" : "Sassy";          //output: Sassy
  Console.WriteLine(result);
 
 
